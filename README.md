@@ -21,5 +21,9 @@ As data consumption in the entertainment industry grows, leveraging BI tools for
 Preview
 <br>
 <img src='Images/Dashboard.jpg'>
+
+Dashboard 1 
 <hr>
-<img src='Images/dash.jpg'>
+<img src='Images/Dash.jpg'>
+
+Dashboard 2 
