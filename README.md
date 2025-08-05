@@ -27,3 +27,7 @@ Dashboard 1
 <img src='Images/Dash.jpg'>
 
 Dashboard 2 
+
+In order to use this download Power BI and open the Parivesh Netflix.pbix and there you can see the excel sheet along with the dashboard 
+
+Meanwhie in the pdf , it is summarized on what all work i have done
